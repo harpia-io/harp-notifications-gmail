@@ -14,11 +14,11 @@ workflows:
 jobs:
   build:
     docker:
-      - image: cimg/python:3.11.0
+      - image: cimg/python:3.11.2
     working_directory: ~/workspace
     environment:
       SERVICE_NAME: harp-notifications-gmail
-      SERVICE_VERSION: v1.0.5
+      SERVICE_VERSION: v1.0.6
       SERVICE_NAMESPACE: dev
     steps:
       - checkout
