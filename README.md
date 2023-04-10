@@ -1,4 +1,4 @@
-## Harp Notifications Gmail Service
+## Open Source Incident Management system - Harp Notifications Gmail Service
 
 ### Full info about Project - https://github.com/harpia-io/harpia
 
